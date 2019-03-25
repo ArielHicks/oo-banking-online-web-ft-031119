@@ -1,9 +1,9 @@
 class Transfer
 
-  attr_accessor :transfer
+  attr_accessor :amount
   # your code here
-  def initialize(transfer)
-    @transfer = transfer
+  def initialize(amount)
+    @amount = amount
   end
 
 

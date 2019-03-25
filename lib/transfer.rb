@@ -3,4 +3,8 @@ class Transfer
   def initialize(money)
     @money = money
   end
+
+
+
+  
 end

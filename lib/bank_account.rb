@@ -15,6 +15,6 @@ class BankAccount
 
   def display_balance
 
-    en
+  end
 
 end
